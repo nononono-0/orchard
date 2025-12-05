@@ -1,0 +1,18 @@
+@import url('reset.css');
+@import url('font.css');
+@import url('animation.css');
+
+body {
+    font-family: 'Neutral Face', sans-serif;
+}
+h1 {
+    font-weight: 500;
+    font-size: 100px;
+}
+h2 {
+    font-weight: 100;
+    font-size: 80px;
+}
+h3 {
+    font-size: 60px;
+}
