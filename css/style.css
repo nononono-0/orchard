@@ -13,10 +13,6 @@ body {
     background-repeat: no-repeat;
     background-attachment: scroll;
     overflow-x: hidden;
-<<<<<<< HEAD
-    
-=======
->>>>>>> 97fed15ed9e9ea87e06bb67a365dc53892af1bf5
 }
 .screens-container {
     display: flex;
